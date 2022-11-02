@@ -2,9 +2,8 @@
   "name": "javascript-note-api",
   "version": "0.0.0",
   "private": true,
-  "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node ./bin/www",
     "dev": "PORT=3001 nodemon"
   },
   "engines":{
